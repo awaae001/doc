@@ -21,7 +21,7 @@ export default defineConfig({
       },{
         text: 'cardplus',
         items:[
-          {text: '角色信息编辑器', link: 'cardplus/CharacterCardEditor.md' }
+          {text: 'EJS 使用初始化 · yml模板', link: 'cardplus/yaml_guide.md' }
         ]
       }
     ],
