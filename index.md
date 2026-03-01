@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "呓语梦轩 · 藏经阁"
+  name: "文轩夜话 · BOOK"
   text: "文档知识库"
   tagline: "开发·分享·未来"
   prelink:
