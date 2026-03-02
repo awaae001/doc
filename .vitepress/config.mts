@@ -11,8 +11,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     logo: '/images/icon.png',
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: '主页', link: '/' },
     ],
 
     sidebar: [
@@ -33,7 +32,8 @@ export default defineConfig({
             text: '使用',
             collapsed: false,
             items: [
-              { text: '角色信息（/cardinfo）', link: '/cardplus/use/cardinfo' }
+              { text: '角色信息', link: '/cardplus/use/cardinfo' },
+              { text: '世界信息', link: '/cardplus/use/world' }
             ]
           }
         ]
@@ -41,7 +41,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/awaae001' }
+      { icon: 'github', link: 'https://github.com/awaae001/doc' }
     ]
   }
 })

@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]
 > 本 Wiki 正在构建中（WIP），内容会持续更新与调整。  
-> GitHub Wiki: https://github.com/awaae001/st_cardplus/wiki
+> GitHub Wiki: https://github.com/awaae001/doc
 
 本 Wikis 致力于帮助所有能找到这里的人解决本程序使用的一些问题
 
